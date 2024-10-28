@@ -140,7 +140,7 @@ if uploaded_file:
 
     st.subheader('Planificación sugerida para la semana de trabajo')
     planificacion = planificacion_semanal(df_prioridades)
-    st.write("Éste es un calendario ideal para completar las tareas a tiempo:")
+    st.write("Este es un calendario ideal para completar las tareas a tiempo:")
     st.markdown(planificacion.style.hide(
         axis="index").to_html(), unsafe_allow_html=True)
 else:
