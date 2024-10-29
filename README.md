@@ -75,6 +75,13 @@ A continuación, un ejemplo de archivo:
 ![Captura de pantalla 2024-10-28 a las 13 24 08 p  m](https://github.com/user-attachments/assets/6f8b4e0a-53a6-46ba-98a0-15b685b598ed)
 ![Captura de pantalla 2024-10-28 a las 13 25 12 p  m](https://github.com/user-attachments/assets/ca5b901d-6ae2-49f9-a474-dcea8f37b674)
 
+### Mejoras Futuras
+
+- Gestión Avanzada de Tareas: Agregar funcionalidades como etiquetas, prioridad personalizada, repetición de tareas en determinados días y categorías para organizar mejor las tareas.
+- Notificaciones de Progreso: Implementar recordatorios automáticos o notificaciones cuando una tarea esté cerca de la fecha límite.
+- Historial de Tareas: Crear un registro de tareas completadas para visualizar el rendimiento y progreso semanal.
+- Exportación de Planificación: Permitir la exportación del calendario semanal a formatos PDF o CSV.
+- Sincronización con Google Calendar: Integrar con Google Calendar para actualizar las tareas y fechas en tiempo real.
 
 ### Contribuciones
 
